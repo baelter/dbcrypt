@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bigdecimal (3.1.8)
+    pg (1.5.8)
+    sequel (5.84.0)
+      bigdecimal
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pg (~> 1.5)
+  sequel (~> 5.84)
+
+BUNDLED WITH
+   2.5.18
